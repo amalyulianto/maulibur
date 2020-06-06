@@ -1,0 +1,20 @@
+.btn-primary {
+    background: rgb(94, 216, 63);
+    border:0;
+    padding: 10px 30px 10px 30px;
+}
+
+.btn-primary:hover {
+    background: rgb(42, 42, 151);
+    border:0;
+}
+
+.heroo h1 {
+    font-family: 'Poppins';
+    font-weight: 700;
+}
+
+.heroo p {
+    font-family: 'Poppins';
+    font-weight: 400;
+}
